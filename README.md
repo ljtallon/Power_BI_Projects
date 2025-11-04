@@ -1,5 +1,6 @@
-# Power_BI_Projects
-# World Energy Consumption Dashboard (Power BI)
+# Power BI Projects
+
+## World Energy Consumption Dashboard ⚡
 
 This dashboard transformed the same World Energy Consumption dataset used in one of my SQL projects into an interactive Power BI report, turning raw queries into actionable insights.
 
@@ -28,7 +29,7 @@ This project demonstrates how SQL-based data analysis can be translated into an 
 
 ---
 
-# Data Survey Dashboard (Power BI)
+## Data Survey Dashboard 	📊
 
 This dashboard showed relationships between data survey responses.
 
