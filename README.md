@@ -1,8 +1,7 @@
 # Power_BI_Projects
 # World Energy Consumption Dashboard (Power BI)
 
-A data visualization project analyzing global energy consumption trends.  
-This dashboard transforms the same **World Energy Consumption dataset** used in one of my SQL projects into an interactive **Power BI report**—turning raw queries into actionable insights.
+This dashboard transformed the same World Energy Consumption dataset used in one of my SQL projects into an interactive Power BI report, turning raw queries into actionable insights.
 
 ## Project Overview  
 
@@ -31,10 +30,10 @@ This project demonstrates how SQL-based data analysis can be translated into an 
 
 # Data Survey Dashboard (Power BI)
 
-A data visualization project transforming raw survey data into an interactive Power BI dashboard that reveals key workforce trends and insights.
+This dashboard showed relationships between data survey responses.
 
 ## Project Overview
-This project demonstrates my ability to clean and transform raw survey data, design calculated measures, and build a dynamic dashboard in Power BI.  
+This project demonstrated my ability to clean and transform raw survey data, design calculated measures, and build a dynamic dashboard in Power BI.  
 
 - **Tools:** Power BI, DAX, Excel  
 - **Techniques:** Data cleaning, feature engineering, interactive visualization  
