@@ -14,9 +14,15 @@ This project demonstrates how SQL-based data analysis can be translated into an 
 ## Key Contributions  
 
 - Extracted, cleaned, and transformed raw global energy consumption data using SQL queries.  
-- Designed an **interactive Power BI dashboard** with filters for region, year, and energy type.  
+- Designed an interactive Power BI dashboard with filters for region, year, and energy type.  
 - Visualized energy types and consumption trends across multiple decades.  
-- Delivered insights on which energy sources are growing, declining, or shifting geographically.  
+- Delivered insights on which energy sources are growing, declining, or shifting geographically.
+
+## Takeaways
+- Sweden has the lowest carbon emissions, at 14.43%.
+- Qatar uses the most energy per capita, at $194,221.
+- China leads the primary energy consumption per population, followed by the United States, then India.
+- Oil is by far the most consumed energy type each year from 2000-2022.
 
 ### World Energy Consumption Dashboard Overview  
 <img width="1378" height="776" alt="image" src="https://github.com/user-attachments/assets/43bed547-b3b9-4c77-b81f-4cb54370c0c4" />
@@ -40,9 +46,12 @@ This project demonstrates my ability to clean and transform raw survey data, des
   - Standardizing multi-response variables for accurate aggregation.  
   - Creating calculated columns to enrich analysis.  
 - Built an **interactive dashboard** with slicers, charts, and KPIs to uncover workforce trends.  
-- Designed visual narratives to make complex survey data accessible to non-technical stakeholders.  
+- Designed visual narratives to make complex survey data accessible to non-technical stakeholders.
 
-## Visuals  
+## Takeaways
+- Data scientists earn the highest salary, with an average of $93,000.
+- Python is the preferred coding language.
+- Most data professionals found it difficult to break into this industry.
 
 ### Data Survey Dashboard Overview  
 <img width="1332" height="762" alt="image" src="https://github.com/user-attachments/assets/0b8dea53-d73e-4f8a-baf2-2c7a0cf8cdde" />
