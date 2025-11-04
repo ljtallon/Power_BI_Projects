@@ -48,7 +48,7 @@ This project demonstrated my ability to clean and transform raw survey data, des
   - Handling missing/null values.  
   - Standardizing multi-response variables for accurate aggregation.  
   - Creating calculated columns to enrich analysis.  
-- Built an **interactive dashboard** with slicers, charts, and KPIs to uncover workforce trends.  
+- Built an interactive dashboard with slicers, charts, and KPIs to uncover workforce trends.  
 - Designed visual narratives to make complex survey data accessible to non-technical stakeholders.
 
 ## Visual
